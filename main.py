@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 # n8n webhook endpoint
-url = "https://yulab.zeabur.app/webhook/a5b300c2-21b0-4d0d-b2e2-8ea18961f8c6"
+url = "https://yulab.zeabur.app/webhook/0f675395-a33e-4a86-be50-ed66d838f1b4"
 
 st.title("🏆 每週排行榜")
 
