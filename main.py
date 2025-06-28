@@ -5,7 +5,7 @@ import streamlit as st
 # n8n webhook endpoint
 url = "https://yulab.zeabur.app/webhook/0f675395-a33e-4a86-be50-ed66d838f1b4"
 
-st.title("🏆 每週排行榜")
+st.title("🏆 本週排行榜（Tiktok組）")
 
 try:
     response = requests.get(url)
